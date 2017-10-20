@@ -1,0 +1,5 @@
+G:\TheGitCloning\TMP\Sln.SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe.config
+G:\TheGitCloning\TMP\Sln.SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe
+G:\TheGitCloning\TMP\Sln.SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.pdb
+G:\TheGitCloning\TMP\Sln.SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.exe
+G:\TheGitCloning\TMP\Sln.SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.pdb
